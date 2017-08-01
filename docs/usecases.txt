@@ -1,3 +1,4 @@
 1. build this code from jenkins
 2. deploy code to tomcat server
 3. use any configuration management tool
+4. docker use cases
